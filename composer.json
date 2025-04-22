@@ -1,0 +1,26 @@
+{
+    "name": "seav-seyla/api-response",
+    "description": "A Laravel package for API response.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SeavSeyla\\ApiResponse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Seav Seyla",
+            "email": "Mrrseyla.758@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SeavSeyla\\ApiResponse\\ApiResponsePackageServiceProvider"
+            ]
+        }
+    }
+}
