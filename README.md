@@ -5,7 +5,7 @@ A simple trait for consistent API responses in Laravel applications.
 ## Installation
 
 ```bash
-composer require seavseyla/laravel-api-response
+composer require seav-seyla/api-response
 ```
 
 ## Usage
